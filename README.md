@@ -84,11 +84,17 @@
 
 <div align="center">
 
-  <!-- Overall Stats -->
+  <!-- GitHub Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=UfaqTech&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/UfaqTech?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repo-count/UfaqTech?color=success" alt="Public Repos" />
+  <br /><br />
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=UfaqTech&show_icons=true&theme=radical&hide_border=true" alt="UfaqTech GitHub Stats" />
   <br />
 
-  <!-- Streak Stats -->
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UfaqTech&theme=radical&hide_border=true" alt="UfaqTech GitHub Streak" />
   <br />
 
@@ -96,14 +102,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqTech&layout=compact&theme=radical&hide_border=true" alt="UfaqTech Top Languages" />
   <br />
 
-  <!-- Trophies -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=UfaqTech&theme=darkhub&no-frame=true&margin-w=10" alt="UfaqTech GitHub Trophies" />
-  <br />
-
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=UfaqTech&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/UfaqTech?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repo-count/UfaqTech?color=success" alt="Public Repos" />
 
 </div>
 
