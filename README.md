@@ -71,7 +71,7 @@
 
 <div align="center">
 
-[![🌍 Live Portfolio](https://img.shields.io/badge/-Live%20Portfolio-0a192f?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ufaqtech.github.io/awais.github.io/)
+[![🌍 Live Portfolio](https://img.shields.io/badge/-Live%20Portfolio-0a192f?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ufaqtech.github.io/)
 
 [![👨‍💻 GitHub Profile](https://img.shields.io/badge/-GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UfaqTech)
 
@@ -80,18 +80,32 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UfaqTech&show_icons=true&theme=radical&hide_border=true" />
+<div align="center">
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=UfaqTech&show_icons=true&theme=radical&hide_border=true" alt="UfaqTech GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UfaqTech&theme=radical&hide_border=true" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UfaqTech&theme=radical&hide_border=true" alt="UfaqTech GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqTech&layout=compact&theme=radical&hide_border=true" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqTech&layout=compact&theme=radical&hide_border=true" alt="UfaqTech Top Languages" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=UfaqTech&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=UfaqTech&theme=darkhub&no-frame=true&margin-w=10" alt="UfaqTech GitHub Trophies" />
+  <br />
+
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=UfaqTech&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/UfaqTech?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repo-count/UfaqTech?color=success" alt="Public Repos" />
+
+</div>
 
 ---
 
@@ -99,7 +113,7 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| **Portfolio Website** | Fully responsive personal website built using HTML, CSS, JS, GitHub Pages | [🔗 View Site](https://ufaqtech.github.io/awais.github.io/) |
+| **Portfolio Website** | Fully responsive personal website built using HTML, CSS, JS, GitHub Pages | [🔗 View Site](https://ufaqtech.github.io/) |
 | **Next Project** | Coming soon: Advanced full-stack app in React/Node | [🚧 In Progress](https://github.com/UfaqTech) |
 
 ---
@@ -110,7 +124,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ufaq_Tech)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/UfaqTech)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UfaqTech)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0a192f?style=flat&logo=Google-Chrome&logoColor=white)](https://ufaqtech.github.io/awais.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a192f?style=flat&logo=Google-Chrome&logoColor=white)](https://ufaqtech.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawais03415942806@gmail.com)
 ---
 
