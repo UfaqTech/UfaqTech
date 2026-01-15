@@ -86,13 +86,20 @@
   <!-- Profile views and basic badges -->
   <img src="https://komarev.com/ghpvc/?username=UfaqTech&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/UfaqTech?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repo-count/UfaqTech?color=success" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/coverage-95%25-orange/UfaqTech?color=success" alt="Public Repos" />
+
   <br /><br />
 
-  <!-- GitHub readme stats -->
-  [![UfaqTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=UfaqTech&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/UfaqTech)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqTech&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/UfaqTech)
+  
 
+  <!-- Profile summary cards -->
+  <br></br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ufaqtech&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ufaqtech&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ufaqtech&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ufaqtech&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ufaqtech&theme=default&utcOffset=8)
+ 
 </div>
 
 ---
