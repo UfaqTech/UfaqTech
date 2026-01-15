@@ -89,21 +89,10 @@
   <img src="https://img.shields.io/github/followers/UfaqTech?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/repo-count/UfaqTech?color=success" alt="Public Repos" />
   <br /><br />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UfaqTech&show_icons=true&theme=radical&hide_border=true" alt="UfaqTech GitHub Stats" />
-  <br />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UfaqTech&theme=radical&hide_border=true" alt="UfaqTech GitHub Streak" />
-  <br />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqTech&layout=compact&theme=radical&hide_border=true" alt="UfaqTech Top Languages" />
-  <br />
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=UfaqTech&theme=darkhub&no-frame=true&margin-w=10" alt="UfaqTech GitHub Trophies" />
+<br></br>
+[![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
