@@ -81,18 +81,17 @@
 
 ---
 ## 📊 GitHub Stats & Activity
-
 <div align="center">
 
-  <!-- GitHub Profile Views -->
+  <!-- Profile views and basic badges -->
   <img src="https://komarev.com/ghpvc/?username=UfaqTech&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/UfaqTech?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/repo-count/UfaqTech?color=success" alt="Public Repos" />
   <br /><br />
-<br></br>
-[![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  <!-- GitHub readme stats -->
+  [![UfaqTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=UfaqTech&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/UfaqTech)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UfaqTech&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/UfaqTech)
 
 </div>
 
