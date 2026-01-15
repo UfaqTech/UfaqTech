@@ -95,8 +95,6 @@
   <!-- Profile summary cards -->
   <br></br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ufaqtech&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ufaqtech&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ufaqtech&theme=default)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ufaqtech&theme=default)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ufaqtech&theme=default&utcOffset=8)
  
