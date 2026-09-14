@@ -18,7 +18,7 @@
 - 💬 Love solving real-world problems with code and collaboration  
 - 🌱 Currently learning: **Advanced React Patterns, AI Tools, Backend Scaling**  
 - 🎯 2025 Goals: Build SaaS apps, learn DevOps basics, contribute to 10+ open-source projects  
-- 📬 Reach me at: [mawais03415942806@gmail.com](mailto:mawais03415942806@gmail.com)
+- 📬 Reach me at: [ufaqtech.global@gmail.com](mailto:ufaqtech.global@gmail.com)
 
 ---
 
@@ -75,7 +75,7 @@
 
 [![👨‍💻 GitHub Profile](https://img.shields.io/badge/-GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UfaqTech)
 
-[![📫 Contact Me](https://img.shields.io/badge/-Contact%20Me-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mawais03415942806@gmail.com)
+[![📫 Contact Me](https://img.shields.io/badge/-Contact%20Me-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ufaqtech.global@gmail.com)
 
 </div>
 
@@ -113,12 +113,12 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-nawaz-52b643315)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufaqtech)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ufaq_Tech)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/UfaqTech)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UfaqTech)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a192f?style=flat&logo=Google-Chrome&logoColor=white)](https://ufaqtech.github.io/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawais03415942806@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ufaqtech.global@gmail.com)
 ---
 
 <p align="center">💡 "Code is not just syntax. It's the art of solving problems efficiently."</p>
