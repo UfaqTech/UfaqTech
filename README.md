@@ -1,9 +1,19 @@
 <h1 align="center">👨‍💻 Awais Nawaz</h1>
-<h3 align="center">Full-Stack Developer | Open-Source Contributor | Tech Explorer</h3>
+
+<h3 align="center">
+  Full-Stack Developer | UI/UX Designer | Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Web+Developer;Open-Source+Contributor;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  Building modern web applications, exploring emerging technologies,
+  and contributing to open-source projects.
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Python+%26+JavaScript+Enthusiast;UI%2FUX+Designer;Cybersecurity+%26+Networking;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="450" alt="Tech GIF" />
@@ -11,16 +21,24 @@
 
 ---
 
+
 ## 🚀 About Me
 
-- 🎓 IT student passionate about building impactful digital experiences  
-- 🧠 Focused on full-stack development using modern web technologies  
-- 💬 Love solving real-world problems with code and collaboration  
-- 🌱 Currently learning: **Advanced React Patterns, AI Tools, Backend Scaling**  
-- 🎯 2025 Goals: Build SaaS apps, learn DevOps basics, contribute to 10+ open-source projects  
-- 📬 Reach me at: [ufaqtech.global@gmail.com](mailto:ufaqtech.global@gmail.com)
+- 👨‍💻 **Who Am I?** — IT student, developer, and technology enthusiast turning ideas into real-world solutions.
+- 🌌 **My Mission:** Building meaningful digital experiences through code, creativity, and innovation.
+- 🏢 **Building:** [UfaqTech](https://ufaqtech.me) — exploring the future of software and technology.
+- 💻 **Code & Create:** Full-Stack Development, modern web applications, and scalable software solutions.
+- 🔐 **Beyond Development:** Exploring AI, Cybersecurity, Ethical Hacking, Networking, and UI/UX Design.
+- 🧠 **Currently Exploring:** Advanced React Patterns, AI Tools, Backend Architecture, and DevOps.
+- 🛠️ **My Mindset:** Learn continuously, solve real problems, and turn challenges into opportunities.
+- 🤝 **Let's Collaborate:** Open to innovative projects, open-source contributions, and meaningful tech collaborations.
+- 📬 **Get in Touch:** [ufaqtech.global@gmail.com](mailto:ufaqtech.global@gmail.com)
 
 ---
+
+> 🌠 *"Think beyond the horizon. Build beyond the limits."*
+
+
 
 ## 🛠️ Languages, Frameworks & Tools
 
